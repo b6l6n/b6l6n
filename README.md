@@ -1,16 +1,22 @@
-## Hi there 👋
+  # :sparkles: Hola, soy Belén :sparkles:
 
-<!--
-**b6l6n/b6l6n** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ <img src="https://www.icegif.com/wp-content/uploads/2023/05/icegif-567.gif" alt="gif principal" width="350" height="200"/>
+  
 
-Here are some ideas to get you started:
+## Actualmente estudiante de programación full stack :technologist:
+- Html
+- Css
+- Git
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  
+### Estudios cursados de artes gráfícas :art:
+- Photoshop
+- Indisign
+- Illustrator
+- Corel pinter
+
+
+### Amplio conocimiento en herramientas de dibujo / pintura tradicional :pencil2:
+
+  
+
