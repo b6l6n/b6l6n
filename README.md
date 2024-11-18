@@ -1,9 +1,13 @@
   # :sparkles: Hola, soy Belén :sparkles:
 
  <img src="https://www.icegif.com/wp-content/uploads/2023/05/icegif-567.gif" alt="gif principal" width="500" height="300"/>
+
+ ## Idiomas:
+ - Español (nativo)
+ - Inglés (medio / Alto) 
   
 
-## Actualmente estudiante de programación full stack :technologist:
+## Actualmente estudiante de programación full stack :technologist:                                                          
 - Html
 - Css
 - Git
