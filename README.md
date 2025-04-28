@@ -3,11 +3,11 @@
  <img src="https://www.icegif.com/wp-content/uploads/2023/05/icegif-567.gif" alt="gif principal" width="500" height="300"/>
 
  ## Lenguages:
- - Spanish (nativo)
- - English (medio / Alto) 
+ - Spanish (native)
+ - English (B2) 
   
 
-## Actualmente estudiante de programación full stack :technologist:                                                          
+##Programming knowledge:technologist:                                                          
 - Html
 - Css
 - Git
@@ -19,7 +19,7 @@
 - Jira
 
   
-### Estudios cursados de artes gráfícas :art:
+###Graphic arts knowledge :art:
 - Photoshop
 - Indisign
 - Illustrator
@@ -27,8 +27,7 @@
 - Canva
 
 
-### Amplio conocimiento en herramientas de dibujo / pintura tradicional :pencil2:
-- Tradicional
-- Digital
+###Extensive knowledge of traditional drawing/painting tools :pencil2:
+
   
 
