@@ -7,7 +7,7 @@
  - English (B2) 
   
 
-##Programming knowledge:technologist:                                                          
+## Programming knowledge :technologist:                                                          
 - Html
 - Css
 - Git
@@ -19,7 +19,7 @@
 - Jira
 
   
-###Graphic arts knowledge :art:
+### Graphic arts knowledge :art:
 - Photoshop
 - Indisign
 - Illustrator
@@ -27,7 +27,7 @@
 - Canva
 
 
-###Extensive knowledge of traditional drawing/painting tools :pencil2:
+### Extensive knowledge of traditional drawing/painting tools :pencil2:
 
   
 
